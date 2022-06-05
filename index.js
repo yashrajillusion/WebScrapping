@@ -42,6 +42,7 @@ creating an error
 
     // we need to send the res that key word is search contain this type of data
 
+    // now we need to make some simple logic to collect latitude and longitude
     return res.status(200).send({ data: res._request._resourceType });
   });
   await page.goto(webUrl);
