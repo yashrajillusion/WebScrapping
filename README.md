@@ -1,5 +1,7 @@
 # WebScrapping
 A code for extracting data from any website
-# cd webscrappin
-# npm i
-# node index.js
+
+## Run below command to test the code
+ cd webscrapping
+ npm i
+ node index.js
